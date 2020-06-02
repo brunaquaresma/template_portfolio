@@ -7,7 +7,7 @@
 # Bruna Quaresma
 <sub>*Data Scientist* *IOC/Fiocruz*</sub>
 
-Entrepreneurial researcher and data scientist, I combine analytical skills with the ability to work in team 
+Entrepreneurial researcher and data scientist, I combine analytical skills with the ability to work in team. 
 
 My credentials include a PostDoctoral in Bioinformatics - IOC/Fiocruz, PhD in Biological Sciences (Pharmacology)  and Master's in Biological Sciences (Medicinal Chemistry) from the Universidade Federal do Rio de Janeiro (UFRJ). UFRJ and Fiocruz are institution of higher education and advanced research rated as one of the top and most prestigious in Brazil.
 
